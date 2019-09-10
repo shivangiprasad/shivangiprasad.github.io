@@ -1,7 +1,7 @@
 Shivangi Prasad
 ==================
 
-Doctorate Student in High Energy Physics @ University of Illinois at Urbana-Champaign
+Doctorate Student in Nuclear Physics @ University of Illinois at Urbana-Champaign
 
 ## [Projects](./assets/)
 * SeaQuest
